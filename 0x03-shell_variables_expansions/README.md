@@ -5,3 +5,5 @@
 `$USERNAME` or `$USER` - variables are to show the username of the system
 
 `OLDPWD` - variable that contain the last directory we were in
+
+`wc` - word count, used to count the number of lines or word
