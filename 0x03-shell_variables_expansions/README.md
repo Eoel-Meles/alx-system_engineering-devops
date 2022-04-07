@@ -12,4 +12,4 @@
 
 `set` - prints all the local enviroments when used without arguements
 
-`set` - sets local variables and assigns them a name
+`set -k` - sets local variables and assigns them a name

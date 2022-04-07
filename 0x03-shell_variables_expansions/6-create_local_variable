@@ -1,2 +1,2 @@
 #!/bin/bash
-set "%s=%s", "BEST" , "School"
+set -k; echo "BEST"="School"
