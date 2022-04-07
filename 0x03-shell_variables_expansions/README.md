@@ -10,4 +10,6 @@
 
 `printenv` - prints the global enviroments
 
-`set` - prints all the local enviroments
+`set` - prints all the local enviroments when used without arguements
+
+`set` - sets local variables and assigns them a name
