@@ -9,3 +9,5 @@
 `wc` - word count, used to count the number of lines or word
 
 `printenv` - prints the global enviroments
+
+`set` - prints all the local enviroments
