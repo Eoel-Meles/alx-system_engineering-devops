@@ -7,3 +7,5 @@
 `OLDPWD` - variable that contain the last directory we were in
 
 `wc` - word count, used to count the number of lines or word
+
+`printenv` - prints the global enviroments
